@@ -81,7 +81,7 @@ const ItemGrid: React.FC<ItemGridProps> = ({
   return (
     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
       {items.map(item => {
-        const { name, subtitle } = getItemDetails(item);
+        const { name, image, subtitle } = getItemDetails(item);
         const banned = isItemBanned(item, teams, itemType, settings);
         const picked = itemType !== 'souvenir' && isItemPicked(item as any, teams, itemType);
         const isDisabled = disabled || banned || picked;
@@ -99,29 +99,37 @@ const ItemGrid: React.FC<ItemGridProps> = ({
               items-center 
               justify-center
               text-center
-              min-h-[120px]
+              min-h-[160px]
               transition-all
               duration-300
               ${getItemClasses(item)}
             `}
             onClick={() => !isDisabled && onSelectItem(item)}
           >
-            <div className="mb-2 text-lg font-semibold">{name}</div>
+            {/* Image */}
+            <div className="w-20 h-20 mb-3 relative">
+              <img
+                src={image}
+                alt={name}
+                className="w-full h-full object-contain"
+              />
+              {(banned || picked) && (
+                <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-60 rounded-lg">
+                  <div className={`font-bold text-xl ${
+                    banned ? 'text-red-500' : 'text-green-500'
+                  }`}>
+                    {banned ? 'BANNED' : 'PICKED'}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Nom */}
+            <div className="mb-1 text-lg font-semibold">{name}</div>
             
+            {/* Sous-titre */}
             {subtitle && (
               <div className="text-xs opacity-80">{subtitle}</div>
-            )}
-            
-            {banned && (
-              <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-40 rounded-lg">
-                <div className="text-red-500 font-bold text-xl">BANNED</div>
-              </div>
-            )}
-            
-            {picked && (
-              <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-40 rounded-lg">
-                <div className="text-green-500 font-bold text-xl">PICKED</div>
-              </div>
             )}
           </div>
         );

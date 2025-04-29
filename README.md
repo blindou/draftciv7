@@ -1,35 +1,42 @@
 # Civilization 7 Draft Tool
 
-Un outil de draft pour Civilization 7 qui permet aux équipes de bannir et sélectionner des civilisations, leaders et souvenirs de manière équitable.
+A draft tool for Civilization 7 that allows teams to ban and pick civilizations, leaders, and souvenirs in a structured way.
 
-## Fonctionnalités
+## Features
 
-- Draft en temps réel pour deux équipes
-- Phases de bannissement et de sélection
-- Support pour les civilisations, leaders et souvenirs
-- Interface utilisateur intuitive
-- Synchronisation en temps réel via Supabase
+- Team-based draft system
+- Auto-ban system for civilizations, leaders, and souvenirs
+- Real-time draft progress tracking
+- Shareable draft links
+- Responsive design
 
-## Comment ça marche
+## Draft Phases
 
-### Phase de Bannissement
-- Chaque équipe bannit 1 civilisation
-- Chaque équipe bannit 1 leader
-- Chaque équipe bannit 1 souvenir (Phase 1)
+1. Ban Phase
+   - Each team bans civilizations, leaders, and souvenirs
+   - Teams take turns banning items
 
-### Phase de Sélection
-- Sélection des civilisations : 1-2-2-1-1-2-2-1
-- Sélection des leaders : 2-1-1-2-2-1-1-2
-- Bannissement final de souvenirs (Phase 2)
+2. Selection Phase
+   - Teams pick civilizations, leaders, and souvenirs
+   - Teams take turns picking items
 
-## Technologies utilisées
+3. Final Ban Phase
+   - Teams can ban additional items
+   - Teams take turns banning items
+
+## How to Use
+
+1. Create a draft by entering team names
+2. Share the draft link with your team
+3. Follow the draft phases to ban and pick items
+4. Complete the draft and start your game
+
+## Technologies Used
 
 - React
 - TypeScript
-- Vite
 - Tailwind CSS
 - Supabase
-- React Router
 
 ## Installation
 

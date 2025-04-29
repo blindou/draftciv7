@@ -3,68 +3,57 @@
     {
       "id": 1,
       "name": "Aksumite",
-      "image": "https://static.wikia.nocookie.net/civilization/images/8/8f/Aksumite_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/8/8f/Aksumite_%28Civ7%29.png"
     },
     {
       "id": 2,
       "name": "Carthaginian",
-      "image": "https://static.wikia.nocookie.net/civilization/images/e/e6/Carthaginian_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/e/e6/Carthaginian_%28Civ7%29.png"
     },
     {
       "id": 3,
       "name": "Egyptian",
-      "image": "https://static.wikia.nocookie.net/civilization/images/1/19/Egyptian_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/1/19/Egyptian_%28Civ7%29.png"
     },
     {
       "id": 4,
       "name": "Greek",
-      "image": "https://static.wikia.nocookie.net/civilization/images/0/02/Greek_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/0/02/Greek_%28Civ7%29.png"
     },
     {
       "id": 5,
       "name": "Han",
-      "image": "https://static.wikia.nocookie.net/civilization/images/6/69/Han_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/6/69/Han_%28Civ7%29.png"
     },
     {
       "id": 6,
       "name": "Khmer",
-      "image": "https://static.wikia.nocookie.net/civilization/images/3/3e/Khmer_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/3/3e/Khmer_%28Civ7%29.png"
     },
     {
       "id": 7,
       "name": "Mauryan",
-      "image": "https://static.wikia.nocookie.net/civilization/images/6/60/Mauryan_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/6/60/Mauryan_%28Civ7%29.png"
     },
     {
       "id": 8,
       "name": "Maya",
-      "image": "https://static.wikia.nocookie.net/civilization/images/c/c2/Maya_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/c/c2/Maya_%28Civ7%29.png"
     },
     {
       "id": 9,
       "name": "Mississippian",
-      "image": "https://static.wikia.nocookie.net/civilization/images/5/52/Mississippian_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/5/52/Mississippian_%28Civ7%29.png"
     },
     {
       "id": 10,
       "name": "Persian",
-      "image": "https://static.wikia.nocookie.net/civilization/images/9/97/Persian_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/9/97/Persian_%28Civ7%29.png"
     },
     {
       "id": 11,
       "name": "Roman",
-      "image": "https://static.wikia.nocookie.net/civilization/images/9/9f/Roman_%28Civ7%29.png",
-      "civilization": null
+      "image": "https://static.wikia.nocookie.net/civilization/images/9/9f/Roman_%28Civ7%29.png"
     }
   ]
 }
