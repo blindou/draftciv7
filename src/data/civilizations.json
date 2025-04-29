@@ -1,0 +1,20 @@
+{
+  "civilizations": [
+    { "id": 1, "name": "America", "image": "/images/civs/america.jpg" },
+    { "id": 2, "name": "Arabia", "image": "/images/civs/arabia.jpg" },
+    { "id": 3, "name": "Aztecs", "image": "/images/civs/aztecs.jpg" },
+    { "id": 4, "name": "Babylon", "image": "/images/civs/babylon.jpg" },
+    { "id": 5, "name": "Brazil", "image": "/images/civs/brazil.jpg" },
+    { "id": 6, "name": "China", "image": "/images/civs/china.jpg" },
+    { "id": 7, "name": "Egypt", "image": "/images/civs/egypt.jpg" },
+    { "id": 8, "name": "England", "image": "/images/civs/england.jpg" },
+    { "id": 9, "name": "Ethiopia", "image": "/images/civs/ethiopia.jpg" },
+    { "id": 10, "name": "France", "image": "/images/civs/france.jpg" },
+    { "id": 11, "name": "Germany", "image": "/images/civs/germany.jpg" },
+    { "id": 12, "name": "Greece", "image": "/images/civs/greece.jpg" },
+    { "id": 13, "name": "India", "image": "/images/civs/india.jpg" },
+    { "id": 14, "name": "Japan", "image": "/images/civs/japan.jpg" },
+    { "id": 15, "name": "Korea", "image": "/images/civs/korea.jpg" },
+    { "id": 16, "name": "Mongols", "image": "/images/civs/mongols.jpg" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "leaders": [
+    { "id": 1, "name": "Abraham Lincoln", "image": "/images/leaders/lincoln.jpg", "civilization": 1 },
+    { "id": 2, "name": "Teddy Roosevelt", "image": "/images/leaders/roosevelt.jpg", "civilization": 1 },
+    { "id": 3, "name": "Saladin", "image": "/images/leaders/saladin.jpg", "civilization": 2 },
+    { "id": 4, "name": "Montezuma", "image": "/images/leaders/montezuma.jpg", "civilization": 3 },
+    { "id": 5, "name": "Hammurabi", "image": "/images/leaders/hammurabi.jpg", "civilization": 4 },
+    { "id": 6, "name": "Pedro II", "image": "/images/leaders/pedro.jpg", "civilization": 5 },
+    { "id": 7, "name": "Qin Shi Huang", "image": "/images/leaders/qin.jpg", "civilization": 6 },
+    { "id": 8, "name": "Wu Zetian", "image": "/images/leaders/wu.jpg", "civilization": 6 },
+    { "id": 9, "name": "Cleopatra", "image": "/images/leaders/cleopatra.jpg", "civilization": 7 },
+    { "id": 10, "name": "Ramses", "image": "/images/leaders/ramses.jpg", "civilization": 7 },
+    { "id": 11, "name": "Victoria", "image": "/images/leaders/victoria.jpg", "civilization": 8 },
+    { "id": 12, "name": "Elizabeth", "image": "/images/leaders/elizabeth.jpg", "civilization": 8 },
+    { "id": 13, "name": "Menelik", "image": "/images/leaders/menelik.jpg", "civilization": 9 },
+    { "id": 14, "name": "Napoleon", "image": "/images/leaders/napoleon.jpg", "civilization": 10 },
+    { "id": 15, "name": "Catherine de Medici", "image": "/images/leaders/catherine.jpg", "civilization": 10 },
+    { "id": 16, "name": "Frederick Barbarossa", "image": "/images/leaders/frederick.jpg", "civilization": 11 },
+    { "id": 17, "name": "Pericles", "image": "/images/leaders/pericles.jpg", "civilization": 12 },
+    { "id": 18, "name": "Gorgo", "image": "/images/leaders/gorgo.jpg", "civilization": 12 },
+    { "id": 19, "name": "Gandhi", "image": "/images/leaders/gandhi.jpg", "civilization": 13 },
+    { "id": 20, "name": "Chandragupta", "image": "/images/leaders/chandragupta.jpg", "civilization": 13 },
+    { "id": 21, "name": "Hojo Tokimune", "image": "/images/leaders/hojo.jpg", "civilization": 14 },
+    { "id": 22, "name": "Sejong", "image": "/images/leaders/sejong.jpg", "civilization": 15 },
+    { "id": 23, "name": "Genghis Khan", "image": "/images/leaders/genghis.jpg", "civilization": 16 },
+    { "id": 24, "name": "Harriet", "image": "/images/leaders/harriet.jpg" },
+    { "id": 25, "name": "Himiko Wa", "image": "/images/leaders/himiko.jpg" }
+  ]
+}

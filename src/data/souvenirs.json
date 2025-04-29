@@ -1,0 +1,17 @@
+{
+  "souvenirs": [
+    { "id": 1, "name": "Compass", "image": "/images/souvenirs/compass.jpg", "description": "Bonus to exploration and naval movement" },
+    { "id": 2, "name": "War Drum", "image": "/images/souvenirs/war-drum.jpg", "description": "Combat bonus to adjacent units" },
+    { "id": 3, "name": "Sailing Map", "image": "/images/souvenirs/sailing-map.jpg", "description": "Bonus to ocean tiles" },
+    { "id": 4, "name": "Ancient Coin", "image": "/images/souvenirs/ancient-coin.jpg", "description": "Bonus to gold generation" },
+    { "id": 5, "name": "Manuscript", "image": "/images/souvenirs/manuscript.jpg", "description": "Bonus to science and culture" },
+    { "id": 6, "name": "Sword of Kings", "image": "/images/souvenirs/sword.jpg", "description": "Military unit production bonus" },
+    { "id": 7, "name": "Astrolabe", "image": "/images/souvenirs/astrolabe.jpg", "description": "Bonus to science generation" },
+    { "id": 8, "name": "Royal Seal", "image": "/images/souvenirs/royal-seal.jpg", "description": "Bonus to diplomatic influence" },
+    { "id": 9, "name": "Great Atlas", "image": "/images/souvenirs/atlas.jpg", "description": "Reveals the entire map" },
+    { "id": 10, "name": "Crown Jewels", "image": "/images/souvenirs/crown-jewels.jpg", "description": "Bonus to loyalty and amenities" },
+    { "id": 11, "name": "Anti-Machiavel", "image": "/images/souvenirs/anti-machiavel.jpg", "description": "Negative diplomatic penalty to aggressive actions" },
+    { "id": 12, "name": "Harmonica de verre", "image": "/images/souvenirs/harmonica.jpg", "description": "Cultural bonus but decreases production" },
+    { "id": 13, "name": "Note G", "image": "/images/souvenirs/note-g.jpg", "description": "Unpredictable effects on gameplay" }
+  ]
+}
