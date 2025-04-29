@@ -1,29 +1,172 @@
 {
   "leaders": [
-    { "id": 1, "name": "Abraham Lincoln", "image": "/images/leaders/lincoln.jpg", "civilization": 1 },
-    { "id": 2, "name": "Teddy Roosevelt", "image": "/images/leaders/roosevelt.jpg", "civilization": 1 },
-    { "id": 3, "name": "Saladin", "image": "/images/leaders/saladin.jpg", "civilization": 2 },
-    { "id": 4, "name": "Montezuma", "image": "/images/leaders/montezuma.jpg", "civilization": 3 },
-    { "id": 5, "name": "Hammurabi", "image": "/images/leaders/hammurabi.jpg", "civilization": 4 },
-    { "id": 6, "name": "Pedro II", "image": "/images/leaders/pedro.jpg", "civilization": 5 },
-    { "id": 7, "name": "Qin Shi Huang", "image": "/images/leaders/qin.jpg", "civilization": 6 },
-    { "id": 8, "name": "Wu Zetian", "image": "/images/leaders/wu.jpg", "civilization": 6 },
-    { "id": 9, "name": "Cleopatra", "image": "/images/leaders/cleopatra.jpg", "civilization": 7 },
-    { "id": 10, "name": "Ramses", "image": "/images/leaders/ramses.jpg", "civilization": 7 },
-    { "id": 11, "name": "Victoria", "image": "/images/leaders/victoria.jpg", "civilization": 8 },
-    { "id": 12, "name": "Elizabeth", "image": "/images/leaders/elizabeth.jpg", "civilization": 8 },
-    { "id": 13, "name": "Menelik", "image": "/images/leaders/menelik.jpg", "civilization": 9 },
-    { "id": 14, "name": "Napoleon", "image": "/images/leaders/napoleon.jpg", "civilization": 10 },
-    { "id": 15, "name": "Catherine de Medici", "image": "/images/leaders/catherine.jpg", "civilization": 10 },
-    { "id": 16, "name": "Frederick Barbarossa", "image": "/images/leaders/frederick.jpg", "civilization": 11 },
-    { "id": 17, "name": "Pericles", "image": "/images/leaders/pericles.jpg", "civilization": 12 },
-    { "id": 18, "name": "Gorgo", "image": "/images/leaders/gorgo.jpg", "civilization": 12 },
-    { "id": 19, "name": "Gandhi", "image": "/images/leaders/gandhi.jpg", "civilization": 13 },
-    { "id": 20, "name": "Chandragupta", "image": "/images/leaders/chandragupta.jpg", "civilization": 13 },
-    { "id": 21, "name": "Hojo Tokimune", "image": "/images/leaders/hojo.jpg", "civilization": 14 },
-    { "id": 22, "name": "Sejong", "image": "/images/leaders/sejong.jpg", "civilization": 15 },
-    { "id": 23, "name": "Genghis Khan", "image": "/images/leaders/genghis.jpg", "civilization": 16 },
-    { "id": 24, "name": "Harriet", "image": "/images/leaders/harriet.jpg" },
-    { "id": 25, "name": "Himiko Wa", "image": "/images/leaders/himiko.jpg" }
+    {
+      "id": 1,
+      "name": "Ada Lovelace",
+      "image": "https://static.wikia.nocookie.net/civilization/images/1/15/Ada_Lovelace_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 2,
+      "name": "Amina",
+      "image": "https://static.wikia.nocookie.net/civilization/images/d/d8/Amina_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 3,
+      "name": "Ashoka, World Conqueror",
+      "image": "https://static.wikia.nocookie.net/civilization/images/1/19/Ashoka%2C_World_Conqueror_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 4,
+      "name": "Ashoka, World Renouncer",
+      "image": "https://static.wikia.nocookie.net/civilization/images/b/b2/Ashoka%2C_World_Renouncer_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 5,
+      "name": "Augustus",
+      "image": "https://static.wikia.nocookie.net/civilization/images/9/99/Augustus_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 6,
+      "name": "Benjamin Franklin",
+      "image": "https://static.wikia.nocookie.net/civilization/images/4/4c/Benjamin_Franklin_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 7,
+      "name": "Catherine the Great",
+      "image": "https://static.wikia.nocookie.net/civilization/images/c/c5/Catherine_the_Great_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 8,
+      "name": "Charlemagne",
+      "image": "https://static.wikia.nocookie.net/civilization/images/d/dd/Charlemagne_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 9,
+      "name": "Confucius",
+      "image": "https://static.wikia.nocookie.net/civilization/images/c/c4/Confucius_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 10,
+      "name": "Friedrich, Baroque",
+      "image": "https://static.wikia.nocookie.net/civilization/images/6/60/Friedrich%2C_Baroque_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 11,
+      "name": "Friedrich, Oblique",
+      "image": "https://static.wikia.nocookie.net/civilization/images/5/5f/Friedrich%2C_Oblique_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 12,
+      "name": "Harriet Tubman",
+      "image": "https://static.wikia.nocookie.net/civilization/images/c/cf/Harriet_Tubman_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 13,
+      "name": "Hatshepsut",
+      "image": "https://static.wikia.nocookie.net/civilization/images/0/05/Hatshepsut_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 14,
+      "name": "Himiko, High Shaman",
+      "image": "https://static.wikia.nocookie.net/civilization/images/1/15/Himiko%2C_High_Shaman_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 15,
+      "name": "Himiko, Queen of Wa",
+      "image": "https://static.wikia.nocookie.net/civilization/images/a/af/Himiko%2C_Queen_of_Wa_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 16,
+      "name": "Ibn Battuta",
+      "image": "https://static.wikia.nocookie.net/civilization/images/2/27/Ibn_Battuta_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 17,
+      "name": "Isabella",
+      "image": "https://static.wikia.nocookie.net/civilization/images/b/b3/Isabella_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 18,
+      "name": "José Rizal",
+      "image": "https://static.wikia.nocookie.net/civilization/images/e/ea/Jos%C3%A9_Rizal_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 19,
+      "name": "Lafayette",
+      "image": "https://static.wikia.nocookie.net/civilization/images/8/82/Lafayette_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 20,
+      "name": "Machiavelli",
+      "image": "https://static.wikia.nocookie.net/civilization/images/6/6b/Machiavelli_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 21,
+      "name": "Napoleon, Emperor",
+      "image": "https://static.wikia.nocookie.net/civilization/images/f/ff/Napoleon%2C_Emperor_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 22,
+      "name": "Napoleon, Revolutionary",
+      "image": "https://static.wikia.nocookie.net/civilization/images/4/4b/Napoleon%2C_Revolutionary_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 23,
+      "name": "Pachacuti",
+      "image": "https://static.wikia.nocookie.net/civilization/images/5/5f/Pachacuti_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 24,
+      "name": "Simón Bolívar",
+      "image": "https://static.wikia.nocookie.net/civilization/images/6/6c/Sim%C3%B3n_Bol%C3%ADvar_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 25,
+      "name": "Tecumseh",
+      "image": "https://static.wikia.nocookie.net/civilization/images/0/08/Tecumseh_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 26,
+      "name": "Trung Trac",
+      "image": "https://static.wikia.nocookie.net/civilization/images/2/2e/Trung_Trac_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 27,
+      "name": "Xerxes, King of Kings",
+      "image": "https://static.wikia.nocookie.net/civilization/images/3/36/Xerxes%2C_King_of_Kings_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 28,
+      "name": "Xerxes, the Achaemenid",
+      "image": "https://static.wikia.nocookie.net/civilization/images/d/d5/Xerxes%2C_the_Achaemenid_%28Civ7%29.png",
+      "civilization": null
+    }
   ]
 }

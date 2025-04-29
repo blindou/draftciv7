@@ -1,20 +1,70 @@
 {
   "civilizations": [
-    { "id": 1, "name": "America", "image": "/images/civs/america.jpg" },
-    { "id": 2, "name": "Arabia", "image": "/images/civs/arabia.jpg" },
-    { "id": 3, "name": "Aztecs", "image": "/images/civs/aztecs.jpg" },
-    { "id": 4, "name": "Babylon", "image": "/images/civs/babylon.jpg" },
-    { "id": 5, "name": "Brazil", "image": "/images/civs/brazil.jpg" },
-    { "id": 6, "name": "China", "image": "/images/civs/china.jpg" },
-    { "id": 7, "name": "Egypt", "image": "/images/civs/egypt.jpg" },
-    { "id": 8, "name": "England", "image": "/images/civs/england.jpg" },
-    { "id": 9, "name": "Ethiopia", "image": "/images/civs/ethiopia.jpg" },
-    { "id": 10, "name": "France", "image": "/images/civs/france.jpg" },
-    { "id": 11, "name": "Germany", "image": "/images/civs/germany.jpg" },
-    { "id": 12, "name": "Greece", "image": "/images/civs/greece.jpg" },
-    { "id": 13, "name": "India", "image": "/images/civs/india.jpg" },
-    { "id": 14, "name": "Japan", "image": "/images/civs/japan.jpg" },
-    { "id": 15, "name": "Korea", "image": "/images/civs/korea.jpg" },
-    { "id": 16, "name": "Mongols", "image": "/images/civs/mongols.jpg" }
+    {
+      "id": 1,
+      "name": "Aksumite",
+      "image": "https://static.wikia.nocookie.net/civilization/images/8/8f/Aksumite_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 2,
+      "name": "Carthaginian",
+      "image": "https://static.wikia.nocookie.net/civilization/images/e/e6/Carthaginian_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 3,
+      "name": "Egyptian",
+      "image": "https://static.wikia.nocookie.net/civilization/images/1/19/Egyptian_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 4,
+      "name": "Greek",
+      "image": "https://static.wikia.nocookie.net/civilization/images/0/02/Greek_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 5,
+      "name": "Han",
+      "image": "https://static.wikia.nocookie.net/civilization/images/6/69/Han_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 6,
+      "name": "Khmer",
+      "image": "https://static.wikia.nocookie.net/civilization/images/3/3e/Khmer_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 7,
+      "name": "Mauryan",
+      "image": "https://static.wikia.nocookie.net/civilization/images/6/60/Mauryan_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 8,
+      "name": "Maya",
+      "image": "https://static.wikia.nocookie.net/civilization/images/c/c2/Maya_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 9,
+      "name": "Mississippian",
+      "image": "https://static.wikia.nocookie.net/civilization/images/5/52/Mississippian_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 10,
+      "name": "Persian",
+      "image": "https://static.wikia.nocookie.net/civilization/images/9/97/Persian_%28Civ7%29.png",
+      "civilization": null
+    },
+    {
+      "id": 11,
+      "name": "Roman",
+      "image": "https://static.wikia.nocookie.net/civilization/images/9/9f/Roman_%28Civ7%29.png",
+      "civilization": null
+    }
   ]
 }
